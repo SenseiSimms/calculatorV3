@@ -11,7 +11,10 @@
     margin: auto;
     }
 
-    .outerScreen {
+    
+
+
+    #outerScreen {
     background-color: #88898D;
     border-radius: 10px 10px 40px 10px;
     color: #7EBDFF;
@@ -22,7 +25,7 @@
     width: 100%;
     }
 
-    .name {
+    #name {
     margin-top: -105px;
     color: #343E8C;
     display: flex;
@@ -30,7 +33,7 @@
     margin-right: 35px;
     }
 
-    .screen {
+    #screen {
     background-color: #658F01;
     border-radius: 5px;
     color: #7EBDFF;
